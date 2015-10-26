@@ -10,7 +10,7 @@ The Request Cycle
   http://docs.railsbridge.org/job-board/the_request_cycle
   http://zh-tw.railsbridge.org/job-board/the_request_cycle?back=create_a_rails_app
 
-Make A Jobs Home Page
+>Make A Jobs Home Page
   http://docs.railsbridge.org/job-board/make_a_jobs_home_page
 
 Store Jobs In The Database
