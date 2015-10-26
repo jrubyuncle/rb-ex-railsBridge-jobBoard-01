@@ -10,3 +10,49 @@ The Request Cycle
   http://docs.railsbridge.org/job-board/the_request_cycle
   http://zh-tw.railsbridge.org/job-board/the_request_cycle?back=create_a_rails_app
 
+Make A Jobs Home Page
+  http://docs.railsbridge.org/job-board/make_a_jobs_home_page
+
+Store Jobs In The Database
+  http://docs.railsbridge.org/job-board/store_jobs_in_the_database
+
+Add A New Job Form
+  http://docs.railsbridge.org/job-board/add_a_new_job_form
+
+Make The Form Work
+  http://docs.railsbridge.org/job-board/make_the_form_work
+
+CRUD And Resourceful Routing
+  http://docs.railsbridge.org/job-board/crud_and_resourceful_routing
+
+Listing The Jobs
+  http://docs.railsbridge.org/job-board/listing_the_jobs
+
+Add A Navbar
+  http://docs.railsbridge.org/job-board/add_a_navbar
+
+Update Job Listings
+  http://docs.railsbridge.org/job-board/update_job_listings
+
+Delete Job Listings
+  http://docs.railsbridge.org/job-board/delete_job_listings
+
+Add More Things
+  http://docs.railsbridge.org/job-board/add_more_things
+
+  Time to add more things!
+
+  - The time where we tell you what to type in has finally ended.
+  - You should do one or all of the things below!
+
+  - Working independently or in pairs is super fun at this point.
+
+  - Add a show page for each listing and move the Edit and Delete links to there.
+  - Add validations —
+    postings without titles or descriptions shouldn't be allowed, right?
+  - Add other useful fields to jobs
+  - Display jobs index in a table; make sortable with data_tables
+  - Add tags (time for a has_many, folks!!!)
+  - Make it look better
+  - Add a user model and auth with Devise
+  - Test it! Write a controller spec.
