@@ -6,5 +6,5 @@
 <h3><%= job.title %></h3>
 <p><%= job.description %></p>
 <h5><%= link_to 'Edit posting', edit_job_path(job) %></h5>
-
+<h5><%= link_to 'Delete posting', job_path(job), method: :delete %></h5>
 <% end %>
